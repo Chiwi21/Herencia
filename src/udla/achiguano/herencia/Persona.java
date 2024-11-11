@@ -1,0 +1,9 @@
+package udla.achiguano.herencia;
+// Esta es la clase Madre, las demás clases tomarán de esta
+public class Persona {
+    private String nombre;
+    private String apellido;
+    private int edad;
+    private String correo;
+
+}
