@@ -11,7 +11,7 @@ public class PrincipalHerencia  {
     alumno.setNotap1(70);
 
     System.out.println("Datos del alumno");
-    System.out.println("Nombre y Apellido: " + alumno.getNombre)
+    System.out.println("Nombre y Apellido: " + alumno.getNombre);
 
     AlumnoInt alumnoint = new AlumoInt();
     alumno.
