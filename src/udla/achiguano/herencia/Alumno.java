@@ -6,6 +6,14 @@ public class Alumno extends Persona{
     private double notap2;
     private double notap3;
 
+    public Alumno() {
+    }
+
+    public Persona (String nombre, String apellido){
+
+        super(nombre, apellido);   //Llamo a los datos de una superclase,
+    }
+
     public String getCarrera() {
         return carrera;
     }

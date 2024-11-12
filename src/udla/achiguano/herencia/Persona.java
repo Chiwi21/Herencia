@@ -6,6 +6,10 @@ public class Persona {
     private int edad;
     private String correo;
 
+    public Persona(String nombre, String apellido) {
+
+    }
+
     public String getNombre() {
         return nombre;
     }
